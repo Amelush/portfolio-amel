@@ -6,14 +6,14 @@
     border:  none;
     outline: none;
     scroll-behavior: smooth;
-    font-family:cursive;
+    font-family:Poppins sans-serif;
 }
 
 :root {
     --bg-color: #000;
     --snd-bg-color: #111;
-    --text-color: #befff7;
-    --main-color: #00ff88; /* VERT MODERNE au lieu du bleu */
+    --text-color: #ebdcbb;
+    --main-color: #ddcea7; /* VERT MODERNE au lieu du bleu */
 }
 
 html {
@@ -193,12 +193,12 @@ span {
 
 .about-img img {
     width: 25vw;
-    border: 3px solid #00ff88;
+    border: 3px solid #ddcea7;
     border-radius: 10px;
 }
 
 .about-img img:hover {
-    box-shadow: 0 0 1.6rem #00ff88;
+    box-shadow: 0 0 1.6rem #ddcea7;
     transition: 0.5s ease;
 }
 
